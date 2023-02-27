@@ -1,0 +1,15 @@
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\bin\Debug\net6.0\ejercisios_videos.exe
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\bin\Debug\net6.0\ejercisios_videos.deps.json
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\bin\Debug\net6.0\ejercisios_videos.runtimeconfig.json
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\bin\Debug\net6.0\ejercisios_videos.dll
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\bin\Debug\net6.0\ejercisios_videos.pdb
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\ejercisios_videos.csproj.AssemblyReference.cache
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\ejercisios_videos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\ejercisios_videos.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\ejercisios_videos.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\ejercisios_videos.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\ejercisios_videos.dll
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\refint\ejercisios_videos.dll
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\ejercisios_videos.pdb
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\ejercisios_videos.genruntimeconfig.cache
+C:\Users\marlo\OneDrive\Documentos\leguajes de interfaz\proyectos\ejercisios_videos\ejercisios_videos\obj\Debug\net6.0\ref\ejercisios_videos.dll
